@@ -2,7 +2,7 @@
 
 <h3> 💜 Olá, meu nome é <strong>Iury!</strong> </h3>
 
-> Me chamo Iury, tenho 15 anos e desejo ser desenvolvedor front end, especificamente na área de desenvolvimento web e mobile!
+> Me chamo Iury, tenho 16 anos e sou desenvolvedor front end, especificamente na área de desenvolvimento web (desenvolvimento mobile em breve)!
   
 <h3> O que estou aprendendo atualmente: </h3>
 
