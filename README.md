@@ -3,12 +3,16 @@
 <h3> 💜 Olá, meu nome é <strong>Iury!</strong> </h3>
 
 > Me chamo Iury, tenho 16 anos e sou desenvolvedor front end, especificamente na área de desenvolvimento web (desenvolvimento mobile em breve)!
+
+<h3> Skills: </h3>
+
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   
 <h3> O que estou aprendendo atualmente: </h3>
 
-   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
  
 <h3> Ferramentas que utilizo: </h3>
 
@@ -17,7 +21,6 @@
   
 <h3> Linguagens que desejo aprender: </h3>
 
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
 <h3> ⭐ Informações sobre minha conta GitHub </h3>
