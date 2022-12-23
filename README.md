@@ -25,10 +25,10 @@
 
 <h3> ⭐ Informações sobre minha conta GitHub </h3>
 
-<a href="https://github.com/IuryGames1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurygames1&theme=dracula&hide_langs_below=1" />
+<a href="https://github.com/iuryyxd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuryyxd&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/IuryGames1">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iurygames1&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="https://github.com/iuryyxd">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iuryyxd&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
