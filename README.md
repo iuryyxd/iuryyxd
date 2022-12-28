@@ -12,7 +12,8 @@
 <h3> O que estou aprendendo atualmente: </h3>
 
    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+   ![React](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
+   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
  
 <h3> Ferramentas que utilizo: </h3>
 
