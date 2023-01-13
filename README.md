@@ -25,9 +25,9 @@
 <h3> ⭐ Additional Information </h3>
 
 <a href="https://github.com/iuryyxd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuryyxd&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuryyxd&theme=dracula" />
 </a>
 
 <a href="https://github.com/iuryyxd">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iuryyxd&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iuryyxd&show_icons=true&theme=dracula"/>
 </a>
