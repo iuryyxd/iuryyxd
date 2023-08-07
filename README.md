@@ -8,12 +8,13 @@
 
   [![HTML5][HTML5]][HTML5-url]
   [![CSS3][CSS3]][CSS3-url]
+  [![Javascript][Javascript]][Javascript-url]
+  [![React][React.js]][React-url]
+  [![Typescript][Typescript]][Typescript-url]
   
 <h3> 📚 Learning: </h3>
 
-   [![Javascript][Javascript]][Javascript-url]
-   [![React][React.js]][React-url]
-   [![Typescript][Typescript]][Typescript-url]
+   [![ReactNative][ReactNative]][ReactNative-url]
  
 <h3> ⚙ Tools: </h3>
 
@@ -38,6 +39,8 @@
 [Javascript-url]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[ReactNative]: https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[ReactNative-url]: https://reactnative.dev/
 [Typescript]: https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB
 [Typescript-url]: https://www.typescriptlang.org/
 [HTML5]: https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=61DAFB
