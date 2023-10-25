@@ -2,7 +2,7 @@
 
 <h3> Hello! 👋 </h3>
 
-> I'm Iury and i'm 16 years old. I'm front end developer, specifically in web development (mobile development soon).
+> I'm Iury and i'm 17 years old. I'm front end developer, specifically in web development (mobile development soon).
 
 <h3> 💻 Skills: </h3>
 
