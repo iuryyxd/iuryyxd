@@ -2,7 +2,7 @@
 
 <h3> Hello! 👋 </h3>
 
-> I'm Iury and i'm 17 years old. I'm front end developer, specifically in web development (mobile development soon).
+> I'm Iury and i'm 18 years old. I'm front end developer, specifically in web development (mobile development soon).
 
 <h3> 💻 Skills: </h3>
 
@@ -15,6 +15,7 @@
 <h3> 📚 Learning: </h3>
 
    [![ReactNative][ReactNative]][ReactNative-url]
+   [![.NET][.NET]][.NET-url]
  
 <h3> ⚙ Tools: </h3>
 
@@ -47,4 +48,6 @@
 [HTML5-url]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
 [CSS3]: https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=61DAFB
 [CSS3-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/
+[.NET]: https://img.shields.io/badge/.NET-20232A?style=for-the-badge&logo=.net&logoColor=61DAFB
+[.NET-url]: https://dotnet.microsoft.com/pt-br/
 
