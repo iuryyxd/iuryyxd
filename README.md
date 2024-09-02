@@ -21,8 +21,6 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=61DAFB)
   ![Figma](https://img.shields.io/badge/-Figma-20232A?style=for-the-badge&logo=figma&logoColor=61DAFB)
-  
-<h3> ⚒ Founder and developer of Allure! </h3>
 
 <h3> ⭐ Additional Information </h3>
 
