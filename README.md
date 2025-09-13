@@ -1,36 +1,52 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h3> Hello! 👋 </h3>
+<h3> Hello! I'm Iury 👋 </h3>
 
-> I'm Iury and i'm 18 years old. I'm front end developer, specifically in web development (mobile development soon).
+💻 Front-end developer, gradually moving into back-end development.  
+🎓 Computer Science student at **UFBA**.  
 
-<h3> 💻 Skills: </h3>
+## 🚀 Technologies & Tools
 
-  [![HTML5][HTML5]][HTML5-url]
-  [![CSS3][CSS3]][CSS3-url]
-  [![Javascript][Javascript]][Javascript-url]
-  [![React][React.js]][React-url]
-  [![Typescript][Typescript]][Typescript-url]
+### ✅ What I use
+<p align="left">
+  <!-- Next.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React.js" />
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <!-- TailwindCSS -->
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" alt="TailwindCSS" />
+</p>
+
+### 📚 Currently learning
+<p align="left">
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <!-- Spring Boot -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" />
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+</p>
+
+
+## ⭐ Additional Information
+
+<div>
+  <a href="https://github.com/iuryyxd">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iuryyxd&theme=dracula" />
+  </a>
   
-<h3> 📚 Learning: </h3>
-
-   [![ReactNative][ReactNative]][ReactNative-url]
-   [![.NET][.NET]][.NET-url]
- 
-<h3> ⚙ Tools: </h3>
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=61DAFB)
-  ![Figma](https://img.shields.io/badge/-Figma-20232A?style=for-the-badge&logo=figma&logoColor=61DAFB)
-
-<h3> ⭐ Additional Information </h3>
-
-<a href="https://github.com/iuryyxd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuryyxd&theme=dracula" />
-</a>
-
-<a href="https://github.com/iuryyxd">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iuryyxd&show_icons=true&theme=dracula"/>
-</a>
+  <a href="https://github.com/iuryyxd">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=iuryyxd&show_icons=true&theme=dracula&count_private=true" />
+  </a>
+  
+  <a href="https://github.com/iuryyxd">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuryyxd&theme=dracula&layout=compact&langs_count=6" />
+  </a>
+</div>
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=61DAFB
 [linkedin-url]: https://www.linkedin.com/in/iurysena/
